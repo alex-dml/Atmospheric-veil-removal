@@ -17,7 +17,6 @@ Run main.py ; don't forget to change the indir and outdir paths to your own dire
 # Results
 
 ![Caption](/img/qualitatif.png)
-![Caption](/img/night_compare_v5.png)
 
 # Sources
 
