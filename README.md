@@ -20,4 +20,4 @@ Run main.py ; don't forget to change the indir and outdir paths to your own dire
 
 # Sources
 
-This code uses an [implementation of the guided filter](https://github.com/swehrwein/python-guided-filter)
+This code uses a [python implementation of the Kaiming He's guided filter](https://github.com/swehrwein/python-guided-filter)
