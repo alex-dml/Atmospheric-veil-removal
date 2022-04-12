@@ -1,8 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon May 11 09:17:50 2020
-
-@author: alxdn
+@author: duminil
 """
 import cv2
 import numpy as np
@@ -16,8 +12,6 @@ import math
 import utils 
 import glob
 import os
-
-
 
 def ssimpsnr_eval(orig, foggy):
     ssim_ = ssim(orig, foggy, data_range=orig.max() - orig.min(), multichannel=True)
