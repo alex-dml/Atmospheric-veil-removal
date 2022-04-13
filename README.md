@@ -13,8 +13,8 @@ The journal article : [Single Image Atmospheric Veil Removal Using New Priors fo
 # Testing
 
 - Run main.py 
-- Don't forget to change the indir and outdir paths to your own directories
-- *mfp* function used the default paramters of the paper. Please adjust the parameters to your own images.
+- Don't forget to change the indir and outdir paths to your own directories.
+- *mfp* function used the default parameters of the paper. Please adjust the parameters to your own images.
 
 # Results
 
