@@ -12,7 +12,8 @@ The journal article : [Single Image Atmospheric Veil Removal Using New Priors fo
 
 # Testing
 
-Run main.py ; don't forget to change the indir and outdir paths to your own directories
+- Run main.py 
+- Don't forget to change the indir and outdir paths to your own directories
 
 # Results
 
