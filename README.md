@@ -8,6 +8,12 @@ More details can be found here :
 The conference paper : [Single Image Atmospheric Veil Removal Using New Priors](https://ieeexplore.ieee.org/document/9506244)
 The journal article : [Single Image Atmospheric Veil Removal Using New Priors for Better Genericity](https://www.mdpi.com/2073-4433/12/6/772)
 
+[http://perso.lcpc.fr/tarel.jean-philippe/publis/ja21.html](http://perso.lcpc.fr/tarel.jean-philippe/publis/ja21.html)
+
+
+[http://perso.lcpc.fr/tarel.jean-philippe/publis/ja21.html](http://perso.lcpc.fr/tarel.jean-philippe/publis/icip21.html)
+
+
 ![Caption](/img/flowchart.png)
 
 # Testing
