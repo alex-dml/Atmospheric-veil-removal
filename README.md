@@ -11,7 +11,7 @@ The journal article : [Single Image Atmospheric Veil Removal Using New Priors fo
 [http://perso.lcpc.fr/tarel.jean-philippe/publis/ja21.html](http://perso.lcpc.fr/tarel.jean-philippe/publis/ja21.html)
 
 
-[http://perso.lcpc.fr/tarel.jean-philippe/publis/ja21.html](http://perso.lcpc.fr/tarel.jean-philippe/publis/icip21.html)
+[http://perso.lcpc.fr/tarel.jean-philippe/publis/icip21.html](http://perso.lcpc.fr/tarel.jean-philippe/publis/icip21.html)
 
 
 ![Caption](/img/flowchart.png)
