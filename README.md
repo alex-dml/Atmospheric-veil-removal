@@ -5,25 +5,25 @@ This method achieve good performances and is competitive with deep learning meth
 
 Publications to be referred when using the previous code :
 
-@article{duminil2021single,
-    title={Single image atmospheric veil removal using new priors for better genericity},
-    author={Duminil, Alexandra and Tarel, Jean-Philippe and Br{\'e}mond, Roland},
-    journal={Atmosphere},
-    volume={12},
-    number={6},
-    pages={772},
-    year={2021},
-    publisher={MDPI}
+@article{    duminil2021single,
+    title    ={Single image atmospheric veil removal using new priors for better genericity},
+    author    ={Duminil, Alexandra and Tarel, Jean-Philippe and Brémond, Roland},
+    journal    ={Atmosphere},
+    volume    ={12},
+    number    ={6},
+    pages    ={772},
+    year    ={2021},
+    publisher    ={MDPI}
 }
 
 
 @inproceedings{duminil2021single,
-    title={Single image atmospheric veil removal using new priors},
-    author={Duminil, Alexandra and Tarel, Jean-Philippe and Br{\'e}mond, Roland},
-    booktitle={2021 IEEE International Conference on Image Processing (ICIP)},
-    pages={1719--1723},
-    year={2021},
-    organization={IEEE}
+    title    ={Single image atmospheric veil removal using new priors},
+    author    ={Duminil, Alexandra and Tarel, Jean-Philippe and Br{\'e}mond, Roland},
+    booktitle    ={2021 IEEE International Conference on Image Processing (ICIP)},
+    pages    ={1719--1723},
+    year    ={2021},
+    organization    ={IEEE}
 }
 
 
